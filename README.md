@@ -2,18 +2,18 @@
 
 # Arun Kumar Ramaswamy
 
-### Senior Engineering Program Manager
-**Technical Delivery & Program Governance**
+### Senior Product Manager
+**Product Strategy & Execution**
 
 ![Location](https://img.shields.io/badge/Location-Clarksburg%2C_MD-12233d?style=for-the-badge)
 [![Email](https://img.shields.io/badge/Email-arunkumar116%40gmail.com-0e7c86?style=for-the-badge)](mailto:arunkumar116@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arunkumar116-0a66c2?style=for-the-badge)](https://www.linkedin.com/in/arunkumar116)
 
-*Leading complex technical programs across engineering, product, and business teams, from design through launch.*
+*Building enterprise products that solve real customer problems and hold up at scale.*
 
-| 🗓️ 18 | 🏢 200+ | ✅ 98% | 🌐 32 |
+| 🗓️ 18 | 🏢 75+ | ✅ 98% | 🌐 32 |
 |:--:|:--:|:--:|:--:|
-| years in enterprise technology | Fortune 500 customers served | on-time delivery across 10+ launches | LinkedIn recommendations |
+| years in enterprise technology | Fortune 500 customers supported | on-time delivery across 10+ launches | LinkedIn recommendations |
 
 </div>
 
@@ -24,22 +24,23 @@
 | | | |
 |:--|:--|:--|
 | 👤 [Profile](#-profile) | 📈 [Results at a glance](#-results-at-a-glance) | 🌟 [Selected work](#-selected-work) |
-| 💼 [Experience](#-experience) | 🧰 [Skills and tools](#-skills-and-tools) | 📜 [Certifications](#-certifications-and-training) |
-| 🎓 [Education](#-education) | 🏆 [Awards](#-awards-and-recognition) | 💬 [Recommendations](#-recommendations) |
+| 💼 [Experience](#-experience) | 🧠 [AI projects at UT Austin](#-ai-projects-at-ut-austin) | 🧰 [Skills and tools](#-skills-and-tools) |
+| 📜 [Certifications](#-certifications-and-training) | 🎓 [Education](#-education) | 🏆 [Awards](#-awards-and-recognition) |
+| 💬 [Recommendations](#-recommendations) | 📬 [Contact](#-contact) | |
 
 ---
 
 ## 👤 Profile
 
-I have spent 18 years in enterprise technology, 14 of them at Hughes Network Systems, an EchoStar company. For the last six I have owned technical delivery plans for the North America Enterprise business, which serves more than 200 Fortune 500 customers.
+I have spent 18 years in enterprise technology, 14 of them at Hughes Network Systems, an EchoStar company. For the last six I have owned products and delivery programs for the North America Enterprise business.
 
-My work is the space between engineering, product, and the business. I run milestone and release planning, map dependencies, keep RAID logs, and manage the critical path for 150+ feature requests a year across six releases. I lead architecture and design reviews with engineering SMEs, use KPI and operational data to find root causes, and report status and risk to C-level stakeholders. Most of the people I coordinate do not report to me.
+I run roadmaps, prioritization, and releases for enterprise SaaS and multi-tenant platforms used by Fortune 500 customers, reviewing 150+ feature requests a year across six releases. I drive program governance across 7 strategic initiatives and 8 business units, managing dependencies, risks, and release cadence. I turn complex technical and business requirements into scalable products, and I lead cross-functional engineering, design, and operations teams.
 
-I led the technical program for the Hughes Managed LEO (Low Earth Orbit) service and the private wireless network program, from design through customer rollout. More recently I have shipped AI-driven improvements: a RAG-based ordering agent, a Copilot intake workflow, and a self-install offering that reached market in five months.
+I own the customer journey for the LEO (Low Earth Orbit) service and the private wireless network program, from ideation through rollout, covering ordering, installation, support, and repairs. I have also built new capabilities: a RAG-based ordering agent, a Copilot-driven intake workflow, and a self-install offering that reached market in five months.
 
-| 🎯 Roles I target |
+| 🎯 Focus areas |
 |:--|
-| ![PM](https://img.shields.io/badge/Senior_Engineering_Program_Manager-0e7c86?style=flat-square) ![TPM](https://img.shields.io/badge/Technical_Program_Manager-0e7c86?style=flat-square) ![Product](https://img.shields.io/badge/Senior_Product_Manager-12233d?style=flat-square) ![PMO](https://img.shields.io/badge/Program_Governance_and_PMO_Leadership-12233d?style=flat-square) |
+| ![SaaS](https://img.shields.io/badge/Enterprise_SaaS-0e7c86?style=flat-square) ![Multi](https://img.shields.io/badge/Multi--Tenant_Platforms-0e7c86?style=flat-square) ![AI](https://img.shields.io/badge/Generative_AI-12233d?style=flat-square) ![Journey](https://img.shields.io/badge/Customer_Journey-12233d?style=flat-square) ![Roadmap](https://img.shields.io/badge/Roadmaps_and_Releases-5d6b7c?style=flat-square) ![GTM](https://img.shields.io/badge/GTM_Execution-5d6b7c?style=flat-square) |
 
 ---
 
@@ -53,71 +54,57 @@ I led the technical program for the Hughes Managed LEO (Low Earth Orbit) service
 
 ## 🌟 Selected work
 
-| | Program | What I did | Result |
+| | Product or program | What I did | Result |
 |:--:|:--|:--|:--|
-| 🛰️ | **Hughes Managed LEO service** | Ran the technical program from concept to customer launch. Scope covered ordering, installation, self-service, RMAs, repairs, and usage reporting across engineering and logistics teams. | Concept to customer launch |
-| 📦 | **Self-install capability** | Led technical readiness and adoption planning, and mentored geographically dispersed engineering and field teams. | Market in 5 months, **installation cost down 80%** |
-| 📡 | **Private wireless network program** | Delivered the business systems for the program. Aligned technology and operations leaders on ordering, installation, and logistics and maintenance workflows, and tracked critical-path dependencies. | Cross-org alignment on end-to-end workflows |
-| 🤖 | **RAG-based ordering agent** | Led architecture for a Gen AI ordering agent built on a contract intelligence engine. Coordinated engineering on eligibility logic, natural-language order capture, and automated order placement. | **Manual effort down 40%** |
-| ✨ | **Copilot-driven intake workflow** | Built a workflow that ingests requirements documents, synthesizes use cases, and flags cross-team dependencies. It also automates technical documentation and status reporting. | **Triage time down 30%**, productivity up 20% |
-| 🏗️ | **Multi-vendor customer systems platform** | Facilitated design with security, networking, and virtualization SMEs. Sequenced provisioning, monitoring, and support workflows through design reviews and dependency mapping. | 10+ service lines, **zero disruption** |
-| 📥 | **Order intake automation** | Used time-to-install metrics to find bottlenecks, then worked with engineering on automated order intake. | Order clarification from 3 to 4 days to **hours** |
-| 🧪 | **Release quality** | Ran technical design reviews with development leads before each release to check architecture against requirements. | Post-launch defects **down 25%** |
+| 🛰️ | **Hughes Managed LEO service** | Led the service from concept to customer launch. Owned the end-to-end customer journey across ordering, installation, self-service, RMAs (return merchandise authorizations), repairs, and usage reporting, and coordinated engineering and logistics teams to enable a multi-channel distribution model. | Concept to customer launch |
+| 📦 | **Self-install capability** | Delivered the capability to market and expanded the addressable market. | Market in 5 months, **installation cost down 80%** (about $500+ saved per truck-roll) |
+| 📡 | **Private wireless network program** | Architected the business system strategy. Delivered integrated ordering, installation, and logistics and maintenance workflows while keeping operations running. | Operational continuity through rollout |
+| 🤖 | **AI ordering agent** | Launched an AI ordering agent with a RAG-based contract intelligence engine for eligibility checks and API-driven order placement. | **Manual effort down 40%** |
+| 📊 | **AI-powered executive dashboard** | Owned a dashboard that gives customers real-time visibility. | Real-time customer visibility |
+| ✨ | **Copilot-driven intake workflow** | Delivered a Gen AI workflow that ingests requirements documentation, synthesizes use cases, and flags cross-team dependencies. It also automates technical documentation and status reporting. | **Triage time down 30%**, productivity up 20% |
+| 🌐 | **Customer portal and extended warranty** | Built a customer-facing portal and API integrations for ticketing and order-status visibility across global customer platforms. Implemented an extended warranty program with API-based asset tracking and automated cost-reduction workflows. | Ticketing and order status in one place |
+| 🏗️ | **Multi-vendor customer systems platform** | Facilitated architecture and design discussions with security, networking, and virtualization SMEs. Led design reviews and dependency mapping to sequence provisioning, monitoring, and support workflows. | 10+ service lines, **zero disruption** |
+| 📥 | **Automated order intake** | Analyzed time-to-install metrics and business KPIs to find bottlenecks, then implemented automated order intake. | Order clarification from 3 to 4 days to **hours** |
+| 🧪 | **Pre-release design reviews** | Reviewed technical designs with development leads before each release and found gaps against customer requirements. | Post-launch defects **down 25%** |
+| 🔗 | **CRM and ERP program** | Defined CRM and ERP business system requirements for a strategic enterprise program and rolled out integrated ticketing and RMA systems. | Supports the enterprise services delivery model |
 
 ---
-
 
 ## 💼 Experience
 
-### 🧭 Career path
+### 🚀 Senior Product Manager, Enterprise Solutions & Multi-Tenant Services
 
-```mermaid
-timeline
-    title 18 years in enterprise technology
-    2005 to 2010 : Infosys Technologies : Software Engineer and Technology Analyst
-    2012 to 2020 : Hughes Network Systems : Software Engineer and Technical Lead
-    2020 to 2021 : Associate Engineering Program Manager
-    2021 to 2025 : Engineering Program Manager
-    2025 to now : Senior Engineering Program Manager
-```
-
-**Progression at Hughes Network Systems:** 🛠️ Software Engineer &nbsp;➜&nbsp; 🧪 Technical Lead &nbsp;➜&nbsp; 📋 Associate Engineering PM &nbsp;➜&nbsp; 📊 Engineering PM &nbsp;➜&nbsp; 🚀 Senior Engineering PM
-
----
-
-### 🚀 Senior Engineering Program Manager, Enterprise Platform
-
-![Company](https://img.shields.io/badge/🏢_Hughes_Network_Systems-12233d?style=for-the-badge)
-![Dates](https://img.shields.io/badge/📅_03%2F2025_--_Present-0e7c86?style=for-the-badge)
+![Company](https://img.shields.io/badge/Hughes_Network_Systems-12233d?style=for-the-badge)
+![Dates](https://img.shields.io/badge/03%2F2025_--_Present-0e7c86?style=for-the-badge)
 ![Title](https://img.shields.io/badge/Internal_title-Sr._Principal_Data_Analyst-5d6b7c?style=flat-square)
 
 | | |
 |:--|:--|
-| 🎯 **Scope** | Enterprise SaaS and hardware platforms serving 200+ Fortune 500 customers. Architecture and design discussions across engineering, network operations, and business teams for 7 strategic initiatives in 8 business units. |
-| 🧩 **How I run it** | Chair the cross-functional prioritization committee. Maintain dependency maps and RAID logs for 150+ annual feature requests and 6+ quarterly releases. |
-| 🛰️ **Satellite and wireless** | Led the technical program for the Hughes Managed LEO service, from concept to customer launch. Delivered the business systems for the private wireless network program. |
-| 📦 **Self-install** | Technical readiness and adoption planning for a self-install capability, brought to market in 5 months. |
-| 🤖 **AI delivery** | RAG-based ordering agent and a Copilot-driven intake workflow, plus an AI-powered executive dashboard for real-time customer visibility. |
-| 🏗️ **Platform design** | Multi-vendor customer systems platform, a customer-facing portal for ticketing and order status, and an extended warranty program with API-based asset tracking. |
+| 🎯 **Scope** | End-to-end product management for enterprise SaaS and hardware platforms supporting 75+ Fortune 500 customers across North America. Oversee 7 strategic initiatives spanning 8 business units. |
+| 🧩 **How I run it** | Chair the cross-functional prioritization committee covering 150+ annual feature requests and enhancement priorities across 6 releases a year, using data-driven scoring and ROI justification. |
+| 🛰️ **Satellite and wireless** | Led the Hughes Managed LEO service from concept to customer launch. Architected the business system strategy for the private wireless network program. |
+| 📦 **Self-install** | Delivered the self-install capability to market in 5 months. |
+| 🤖 **AI delivery** | AI ordering agent on a RAG-based contract intelligence engine, a Copilot-driven intake workflow, and an AI-powered executive dashboard. |
+| 🏗️ **Platform design** | Multi-vendor customer systems platform, a customer-facing portal with API integrations, and an extended warranty program with API-based asset tracking. |
 
-| 📈 98% | 🧱 7 / 8 | 💸 80% | ⚙️ 40% | ⏱️ 30% |
+| ✅ 100% | 🧱 7 / 8 | 💸 80% | ⚙️ 40% | ⏱️ 30% |
 |:--:|:--:|:--:|:--:|:--:|
-| on-time delivery | initiatives across business units | lower install cost | less manual ordering effort | less manual triage time |
+| on-time delivery in the first 9 months | initiatives across business units | lower install cost | less manual ordering effort | less manual triage time |
 
 ---
 
-### 📊 Engineering Program Manager, Enterprise Solutions & Multi-Tenant
+### 📊 Product Manager, Enterprise Solutions & Multi-Tenant Services
 
-![Company](https://img.shields.io/badge/🏢_Hughes_Network_Systems-12233d?style=for-the-badge)
-![Dates](https://img.shields.io/badge/📅_06%2F2021_--_03%2F2025-0e7c86?style=for-the-badge)
+![Company](https://img.shields.io/badge/Hughes_Network_Systems-12233d?style=for-the-badge)
+![Dates](https://img.shields.io/badge/06%2F2021_--_03%2F2025-0e7c86?style=for-the-badge)
 ![Title](https://img.shields.io/badge/Internal_title-Principal_Data_Analyst--II-5d6b7c?style=flat-square)
 
 | | |
 |:--|:--|
-| 🎯 **Scope** | Program lead for the Enterprise Working Committee. Owned requirements, backlog prioritization, dependency tracking, and release cadence for 6 annual releases of 20 to 25 features each, across order-to-cash and operational systems. |
-| 🚢 **Launches** | Coordinated technical planning and GTM execution for 10+ product launches. |
-| 🔍 **Discovery** | Ran customer discovery sessions with stakeholders and engineering leads, and turned the findings into use cases, technical requirements, and roadmap inputs. |
-| 🔗 **Integration** | Defined technical requirements and architecture inputs for CRM and ERP integration, and led the rollout of integrated ticketing and RMA systems. |
+| 🎯 **Scope** | Managed the Enterprise Working Committee: requirements definition, backlog prioritization, and delivery for 6 annual software releases of 20 to 25 features and enhancements each. |
+| 🚢 **Launches** | Coordinated planning and GTM execution for 10+ product launches and feature releases across order-to-cash and operational systems. |
+| 🔍 **Discovery** | Ran customer discovery sessions with enterprise stakeholders to surface pain points and turn them into use cases, roadmaps, and business requirements documents. |
+| 🔗 **Integration** | Defined CRM and ERP business system requirements for a strategic enterprise program and rolled out integrated ticketing and RMA systems. |
 
 | 📈 98% | ⏳ 3 to 4 days → hours | 🐞 25% |
 |:--:|:--:|:--:|
@@ -125,58 +112,71 @@ timeline
 
 ---
 
-### 📋 Associate Engineering Program Manager, Enterprise Platform
+### 📋 Product Owner, Enterprise Solutions Platform
 
-![Company](https://img.shields.io/badge/🏢_Hughes_Network_Systems-12233d?style=for-the-badge)
-![Dates](https://img.shields.io/badge/📅_06%2F2020_--_06%2F2021-0e7c86?style=for-the-badge)
+![Company](https://img.shields.io/badge/Hughes_Network_Systems-12233d?style=for-the-badge)
+![Dates](https://img.shields.io/badge/06%2F2020_--_06%2F2021-0e7c86?style=for-the-badge)
 ![Title](https://img.shields.io/badge/Internal_title-Principal_Data_Analyst--I-5d6b7c?style=flat-square)
 
 | | |
 |:--|:--|
-| 🎯 **Scope** | Worked with business users and engineering teams to define, prioritize, and scope requirements for customer support and ticketing systems. |
-| ✅ **Quality** | Joined design and test-plan reviews to validate quality and technical alignment before rollout. |
+| 🎯 **Scope** | Partnered with enterprise business users to define, prioritize, and deliver requirements and enhancement requests. |
+| ✅ **Quality** | Reviewed designs and test plans with development teams to confirm feature quality and customer alignment before production rollout. |
 
 ---
 
-### 🛠️ Software Engineer & Technical Lead
+### 🛠️ Technical Product Support & Software Engineering Leadership
 
-![Company](https://img.shields.io/badge/🏢_Hughes_Network_Systems-12233d?style=for-the-badge)
-![Dates](https://img.shields.io/badge/📅_03%2F2012_--_06%2F2020-0e7c86?style=for-the-badge)
-![Levels](https://img.shields.io/badge/MTS_II_→_Principal_Engineer_I-5d6b7c?style=flat-square)
+![Company](https://img.shields.io/badge/Hughes_Network_Systems-12233d?style=for-the-badge)
+![Dates](https://img.shields.io/badge/03%2F2012_--_06%2F2020-0e7c86?style=for-the-badge)
 
 | | |
 |:--|:--|
-| 🆘 **Escalations** | Technical escalation support for enterprise customers across CRM and order management systems. |
-| 🔄 **Migrations** | Led end-to-end platform migrations, including root-cause analysis, dependency mapping, and post-migration validation. |
+| 🆘 **Escalations** | Technical escalation support for enterprise customers. |
+| 🔄 **Migrations** | Led end-to-end platform migrations, including root-cause analysis, post-migration validation, and requirements gathering. |
 | 🧪 **Qualification** | Defined and ran product qualification testing across order management, provisioning, and CRM applications before release. |
-| 📈 **Growth** | Moved through four technical leadership levels, from Member of Technical Staff II to Principal Engineer I. |
+| 📈 **Growth** | Moved through four technical leadership roles, from Member of Technical Staff II to Principal Engineer I. |
 
 ---
 
 ### 🌱 Software Engineer & Technology Analyst
 
-![Company](https://img.shields.io/badge/🏢_Infosys_Technologies_Limited-12233d?style=for-the-badge)
-![Dates](https://img.shields.io/badge/📅_09%2F2005_--_06%2F2010-0e7c86?style=for-the-badge)
+![Company](https://img.shields.io/badge/Infosys_Technologies_Limited-12233d?style=for-the-badge)
+![Dates](https://img.shields.io/badge/09%2F2005_--_06%2F2010-0e7c86?style=for-the-badge)
 
 | | |
 |:--|:--|
-| 🎯 **Scope** | Led requirements analysis, design, development, and support for client IT systems and interfaces across four roles in five years. Supported enterprise system migrations and new interface development. |
+| 🎯 **Scope** | Led requirements analysis, design, development, and support for client IT systems and interfaces across four roles over five years. Supported enterprise system migrations and new interface development. |
 | 🏅 **Recognition** | Technical Excellence and STAR Awards for technical competency and project delivery. |
 
 ---
+
+## 🧠 AI projects at UT Austin
+
+Projects from the AIFL-International program at Great Learning, completed as part of the Post Graduate Program in Artificial Intelligence for Leaders at The University of Texas at Austin, McCombs School of Business.
+
+| | Project | Course | What I built | Keywords |
+|:--:|:--|:--|:--|:--|
+| 📰 | **NlpNomics** | Deep Learning for Leaders | Analyzed articles and predicted whether each one is relevant to US economics. The work covered several text preprocessing steps and predictive models for relevance. | `NLP` `Text Preprocessing` `Classification` `Supervised Learning` |
+| 🏦 | **AllLife Bank** | Discovering Patterns in Data | Built clustering algorithms on customer behavior data to segment customers by spending patterns and interactions with the bank. The segments informed personalized marketing and service improvements aimed at higher customer lifetime value and loyalty. | `Clustering` `K-Means` `Customer Segmentation` `EDA` `Data Preprocessing` `Unsupervised Learning` `Teamwork` |
+| 🎯 | **Extraa Learn** | Neural Networks and Ensemble Techniques | Built models with neural networks, decision trees, and ensemble techniques to predict whether a sales lead converts to a paying customer, based on lead characteristics and user interaction data. | `Neural Networks` `Decision Trees` `Ensemble Techniques` `Hyperparameter Tuning` `Classification` `EDA` `Supervised Learning` |
+| 🎬 | **Building POC for AI Projects and Data Modeling** | Data Modeling | Part one was an AI proof of concept: problem statement, proposed solution, validation metrics, market analysis, and timeline. Part two used regression to predict first-day view counts for content released on an OTT platform and to find the key factors behind them. | `AI POC` `Linear Regression` `KNIME` `EDA` `Supervised Learning` |
+
+---
+
 
 ## 🧰 Skills and tools
 
 | Area | Skills |
 |:--|:--|
-| 🗂️ **Program Management** | `SAFe & PI Planning` `PMO process design and standardization` `agile/scrum execution` `RAID Logs` `cross-org program governance` `release/program cadence management` `roadmap alignment` |
-| 🤖 **Generative AI & LLM Program Delivery** | `RAG-based decision-support tooling` `agentic workflow design` `Copilot-driven requirement generation and status reporting` `LLM-enabled documentation synthesis` |
-| 🧭 **Product Strategy and Management** | `Enterprise product roadmap ownership` `OKR/KPI governance` `GTM planning` `portfolio management` `prioritization frameworks (MoSCoW, RICE, WSJF)` `backlog refinement` `PRD/BRD development` `acceptance criteria definition` |
-| 🛡️ **Risk, Quality & Change Management** | `Risk identification and mitigation` `release readiness reviews` `UAT coordination` `SLA management` `defect management` `process automation` `organizational change and tooling adoption` |
-| 🎤 **Executive & Stakeholder Communication** | `Trusted advisor and primary point of contact for C-level and business stakeholders` `quarterly business reviews (QBRs)` `executive-level reporting and dashboards` `roadmap presentations` |
-| 🏛️ **Cross-Functional & Architecture Leadership** | `Facilitating architecture and design discussions with engineering SMEs` `technical design review leadership` `influencing without direct authority` `mentoring distributed teams` `chairing governance committees and vendor management` |
-| 🏢 **Enterprise Platforms & Operations** | `Enterprise SaaS and hardware platform deployment` `multi-tenant and BSS/OSS architecture` `customer support and CRM systems (ticketing, RMA, warranty and asset tracking)` `self-service portals` `order-to-cash workflows` `service delivery orchestration` `cross-platform integration across multi-vendor ecosystems` |
-| 🧰 **Tools** | `Jira` `Confluence` `MS Project` `Smartsheet` `SQL` `Tableau` `SOAP UI` `Postman` `Figma` `Lovable` `Replit (Vibe Coding)` `Microsoft Copilot` `Salesforce.com` `Informatica Cloud` `Google Cloud Platform` `AI Infrastructure` `Cloud Infrastructure` |
+| 🧭 **Product Strategy and Management** | `Roadmap Ownership` `OKR/KPI Governance` `GTM Planning` `Portfolio Management` `Prioritization` `MoSCoW` `RICE` `WSJF` `Backlog Refinement` `PRD/BRD` `Acceptance Criteria` |
+| 🤖 **Generative AI & LLM Program Delivery** | `RAG` `Agentic Workflows` `Copilot Automation` `LLM Documentation` |
+| 🗂️ **Program Management** | `SAFe` `PI Planning` `PMO Standardization` `Agile/Scrum` `RAID Logs` `Program Governance` `Release Cadence` `Roadmap Alignment` |
+| 🛡️ **Risk, Quality & Change Management** | `Risk Mitigation` `Release Readiness` `UAT` `SLA Management` `Defect Management` `Process Automation` `Change Management` `Tooling Adoption` |
+| 🎤 **Executive & Stakeholder Communication** | `Trusted Advisor` `C-Level Stakeholders` `QBRs` `Executive Reporting` `Roadmap Presentations` |
+| 🏛️ **Cross-Functional & Architecture Leadership** | `Architecture Discussions` `Design Reviews` `Influencing` `Mentoring` `Governance Committees` `Vendor Management` |
+| 🏢 **Enterprise Platforms & Operations** | `Enterprise SaaS` `Platform Deployment` `Multi-Tenant` `BSS/OSS` `CRM` `Ticketing` `RMA` `Warranty Tracking` `Asset Tracking` `Self-Service Portals` `Order-to-Cash` `Service Delivery` `Multi-Vendor Integration` |
+| 🧰 **Tools** | `Jira` `Confluence` `MS Project` `Smartsheet` `SQL` `Tableau` `SOAP UI` `Postman` `Figma` `Lovable` `Replit` `Vibe Coding` `Microsoft Copilot` `Salesforce.com` `Informatica Cloud` `Google Cloud` `AI Infrastructure` `Cloud Infrastructure` |
 
 ---
 
@@ -200,8 +200,8 @@ timeline
 | | Program | School | Completed | GPA |
 |:--:|:--|:--|:--|:--|
 | 🤖 | **Post Graduate Program in Artificial Intelligence for Leaders** | The University of Texas at Austin, McCombs School of Business | May 2025 | 4.17 |
-| 📡 | **M.S. in Telecommunications** | University of Maryland, College Park, MD | June 2012 | 3.45 / 4.0 |
-| 🥇 | **B.E. in Electronics and Communication** | Anna University, Chennai, India. Gold Medal for graduating 2nd in class | June 2005 | 3.80 / 4.0 |
+| 📡 | **M.S. in Telecommunications** | University of Maryland, College Park, MD | June 2012 | 3.45 |
+| 🥇 | **B.E. in Electronics and Communication** | Anna University, Chennai, India. Gold Medal for graduating 2nd in class | June 2005 | 3.80 |
 
 ---
 
@@ -211,7 +211,6 @@ timeline
 |:--:|:--|:--|
 | 🏆 | **Excellence Award in Solution Delivery**, Hughes Network Systems (2021, 2022, 2025) | Defining and delivering enterprise product and platform solutions |
 | ⚡ | **Multiple Real-Time Recognition Awards**, Hughes Network Systems | Delivering mission-critical solutions and completing high-impact projects |
-| ⭐ | **Technical Excellence and STAR Awards**, Infosys Technologies | Technical competency and project delivery |
 
 ---
 
