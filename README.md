@@ -2,6 +2,8 @@
 
 <img width="425" height="500" alt="IMG_20240404_094019" src="https://github.com/user-attachments/assets/d45483e9-855d-45e4-be01-c36a0a939de0" />
 
+</div>
+
 <div align="center">
 
 # Arun Kumar Ramaswamy
