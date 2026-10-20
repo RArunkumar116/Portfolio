@@ -1,4 +1,4 @@
-<img width="2862" height="3578" alt="IMG_20240404_094019" src="https://github.com/user-attachments/assets/e17a5b04-2d4b-4626-8adc-f71a6384063e" />
+<img width="1000" height="1000" alt="IMG_20240404_094019" src="https://github.com/user-attachments/assets/e17a5b04-2d4b-4626-8adc-f71a6384063e" />
 <div align="center">
 
 # Arun Kumar Ramaswamy
