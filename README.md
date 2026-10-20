@@ -187,16 +187,16 @@ Also: Smartsheet, SOAP UI, Informatica Cloud, Lovable.
 
 ### Certifications
 
-| | Credential | Issued |
-|---|---|---|
-| ☁️ | Google Cloud Certified Generative AI Leader | Oct 2026 |
-| 🟠 | AWS Certified AI Practitioner | Sep 2026 |
-| ☁️ | Google Cloud Certified Cloud Digital Leader | Sep 2026 |
-| 🧭 | Certified Scrum AI for Product Owner | Aug 2026 |
-| 🧭 | Certified Scrum Product Owner (Scrum Alliance) | Aug 2026 |
-| 🔵 | IBM AI Aware Graduate | Dec 2025 |
-| 📘 | PMP Exam Prep Boot Camp | Sep 2025 |
-| ⚡ | Salesforce Certified Force.com Developer | Feb 2015 |
+| | Credential | Issued | Credential ID |
+|---|---|---|---|
+| ☁️ | Google Cloud Certified Generative AI Leader | Oct 2026 | [81610](https://www.credly.com/badges/ba411bfd-7338-4fff-93a2-752d8f64d7d8/public_url) |
+| 🟠 | AWS Certified AI Practitioner | Sep 2026 | [c464aa22ddcf4263a8b581fe379d9907](https://www.credly.com/badges/acef5035-65ba-485a-b49d-aac34f8e87f2/public_url) |
+| ☁️ | Google Cloud Certified Cloud Digital Leader | Sep 2026 | [123839](https://www.credly.com/badges/8f24f563-9de8-4da4-a8d2-a6b23ef1bd2e/public_url) |
+| 🧭 | Certified Scrum AI for Product Owner | Aug 2026 | [View credential](https://bcert.me/vvozbmwar) |
+| 🧭 | Certified Scrum Product Owner (Scrum Alliance) | Aug 2026 | [001840610](https://bcert.me/vyhvglqxc) |
+| 🔵 | IBM AI Aware Graduate | Dec 2025 | |
+| 📘 | PMP Exam Prep Boot Camp | Sep 2025 | |
+| ⚡ | Salesforce Certified Force.com Developer | Feb 2015 | 2338476 |
 
 ### Education
 
