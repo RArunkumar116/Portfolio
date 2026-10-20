@@ -8,7 +8,8 @@
 
 # Arun Kumar Ramaswamy
 
-### Senior Product Manager | Product Strategy & Execution
+
+### Senior Product & Technical Program Manager | Strategy, Execution and Governance
 
 I build enterprise products that solve real customer problems and hold up at scale.
 
